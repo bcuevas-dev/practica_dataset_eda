@@ -35,7 +35,7 @@ practica_dataset_eda/
 
 1. Clona este repositorio:
     ```bash
-    git clone <URL_DEL_REPOSITORIO>
+    git clone https://github.com/bcuevas-dev/practica_dataset_eda.git
     cd practica_dataset_eda
     ```
 
