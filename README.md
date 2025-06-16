@@ -100,5 +100,5 @@ El análisis y modelado del dataset educativo se fundamentó en la aplicación d
 
 ## 👨‍💻 Autor
 
-**Bienvenido Cuevas**A
+**Bienvenido Cuevas**
 ---
