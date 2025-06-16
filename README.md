@@ -34,10 +34,10 @@ practica_dataset_eda/
 ## ⚙️ Instalación
 
 1. Clona este repositorio:
-    ```bash
-    git clone <URL_DEL_REPOSITORIO>
-    cd practica_dataset_eda
-    ```
+```bash
+git clone https://github.com/bcuevas-dev/practica_dataset_eda.git
+cd practica_dataset_eda
+```
 
 2. Crea y activa un entorno virtual (opcional pero recomendado):
     ```bash
