@@ -1,3 +1,8 @@
+# ==========================================================================================
+# Proyecto: Análisis Exploratorio de Datos (EDA) - Desempeño Académico
+# Versión Local para scripts
+# ==========================================================================================
+
 import pandas as pd
 import os
 from sklearn.model_selection import train_test_split
